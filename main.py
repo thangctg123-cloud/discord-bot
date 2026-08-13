@@ -151,5 +151,4 @@ async def sing_panel(ctx):
 async def on_ready():
     print(f"Bot đã sẵn sàng: {bot.user}")
 
-
-bot.run("YOUR_BOT_TOKEN")
+bot.run("MTUzNjk4MTc5ODQ5MDIxNDQwMA.GEsQ2D.P71Tx-F2QQdKaK5jlrTgdHEEmn4GvPu2EKMsGw")
