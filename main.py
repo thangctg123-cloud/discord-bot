@@ -151,4 +151,4 @@ async def sing_panel(ctx):
 async def on_ready():
     print(f"Bot đã sẵn sàng: {bot.user}")
 
-bot.run("MTUzNjk4MTc5ODQ5MDIxNDQwMA.GEsQ2D.P71Tx-F2QQdKaK5jlrTgdHEEmn4GvPu2EKMsGw")
+bot.run("MTUzNjk4MTc5ODQ5MDIxNDQwMA.GyFRLN.60hzWT7GDQ8pk-nwK8Ua_tplTyvMDg49oAxzeY")
